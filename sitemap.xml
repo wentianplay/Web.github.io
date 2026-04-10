@@ -115,6 +115,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>https://official.wentianplays.com/</loc>
+    <lastmod>2026-04-01T00:00:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://official.wentianwan.com/</loc>
     <lastmod>2026-04-01T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -139,7 +145,7 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://api.wentianplay.net/</loc>
+    <loc>https://api.wentianplay.com/</loc>
     <lastmod>2026-04-01T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -152,6 +158,12 @@
 </url>
 <url>
     <loc>https://api.wentianplay.top/</loc>
+    <lastmod>2026-04-01T00:00:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://api.wentianplays.com/</loc>
     <lastmod>2026-04-01T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
