@@ -4,7 +4,7 @@
     <loc>https://www.wentianplay.com/</loc>
     <lastmod>2024-05-03T14:42:49+08:00</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.1</priority>
+    <priority>1.0</priority>
 </url>
 <url>
     <loc>https://www.wentianyo.com/</loc>
@@ -22,7 +22,7 @@
     <loc>https://www.wentianplay.net/</loc>
     <lastmod>2024-12-27T15:09:42+08:00</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.8</priority>
 </url>
 <url>
     <loc>https://www.wentianyou.com/</loc>
@@ -64,7 +64,7 @@
     <loc>https://www.wentianwan.com/</loc>
     <lastmod>2025-04-03T15:17:51+08:00</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
 </url>
 <url>
     <loc>https://www.wentianwan.cn/</loc>
