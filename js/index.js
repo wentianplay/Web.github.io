@@ -16,7 +16,7 @@ let app = {
         init: function () {
             let that = this;
             $.ajax({
-                url: "./data/settings.json",
+                url: "https://api.wentianplay.com/api/settings.json",
                 type: "get",
                 dataType: "json",
                 success: function (data) {
